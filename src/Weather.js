@@ -13,7 +13,7 @@ export default function Weather (){
             <li>Wednesday 5pm</li>
             <li>Mostly cloudy</li>
             </ul>
-            <div className="row">
+<div className="row">
 <div className="col-6">
 <img src="http://www.iemoji.com/view/emoji/185/animals-nature/cloud" alt= "mostly cloudy" />
 6 degrees C.
@@ -23,10 +23,8 @@ export default function Weather (){
     <li>Humidity:`5%</li>
     <li>Wind- 13km/h</li></ul>
 </div>
-
-            </div>
-            
-            </div>
+</div>
+</div>
 
             
     )
