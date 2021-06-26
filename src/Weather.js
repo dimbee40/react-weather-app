@@ -1,6 +1,6 @@
 import React from "react";
 import "./Weather.css";
-import Button from 'react-bootstrap/Button';
+
 export default function Weather (){
     return(
         <div className="Weather">
