@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
      
      React Weather App
-     Coded by Deb
+     Coded by <a href="https://github.com/dimbee40/react-weather-app" >Deb</a>
     </div>
   );
 };
